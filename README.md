@@ -6,7 +6,7 @@
 
 The goal of this project is for you to practice what you have learned in the Business Intelligence chapter of this program. For this project, you will choose a data set, explore the it using Tableau, and put together a Story for presentation showing the insights you have derived from the data. You should demonstrate your proficiency using Tableau and the concepts you have learned throughout the chapter. The workbook should be saved to Tableau Public and a link to the workbook should be provided.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+**You will be working in pairs for this project**
 
 ---
 
