@@ -44,3 +44,29 @@ The following deliverables should be pushed to your Github repo for this chapter
 - [Tableau Getting Started Tutorial](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
 - [Tableau Training Videos](https://www.tableau.com/learn/training)
 - [Tableau Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)
+
+## Evaluation topics
+
+**Text**
+
+- Subtitle and/or annotations provide additional information
+- Text is hierarchical in size, readable and horizontal
+- Data is labeled directly and labels are used sparingly
+
+**Arrangement**
+
+- Data is intentionally ordered
+
+**Color**
+
+- Color scheme is intentional, used to highlight key patterns, readable when printed in black & white, and sufficiently contrasts with background
+
+**Lines**
+
+- Axes do not have unnecessary tick marks, and graph has one horizontal and one vertical axis
+
+**Overall**
+
+- Graphs highlights significant finding or conclusions
+- No addition of unnecessary graphs
+- Individual chart elements work together to reinforce the overarching takeaway message
