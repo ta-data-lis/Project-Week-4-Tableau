@@ -31,7 +31,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 ## Suggested Ways to Get Started
 
-- **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets) and [Kaggle Data Sets](https://www.kaggle.com/datasets).
+- **Find a data set to process** - As great places to start looking we recommend [Kaggle](https://www.kaggle.com/datasets), [Pordata](https://www.pordata.pt), and [EuroStat](https://ec.europa.eu/eurostat/data/database).
 - **Explore the data set** and come up with a variety of visualizations that you can potentially include in your story.
 - **Break the project down into different steps** - identify the entities/dimensions in your data set, explore them each individually, and then progress to analyzing different combinations of them.
 - **Use the tools in your tool kit** - the concepts and methods you have learned in the business intelligence chapter as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
