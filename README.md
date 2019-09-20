@@ -77,7 +77,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 **Arrangement**
 
 - Data is intentionally ordered
-- Is your chart displacement representing the correct data granularity changes (e.g. more aggregated on the top)
+- Is your chart displacement representing the correct data granularity changes (e.g. more aggregated on the top)?
 - If your charts correlate with each other in the dashboard, place them accordingly (e.g. do not filter from the bottom to the top)
 
 **Color**
@@ -90,7 +90,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 **Overall**
 
-- Graphs highlights significant finding or conclusions
+- Graphs highlight significant finding or conclusions
 - No addition of unnecessary graphs
 - Individual chart elements work together to reinforce the overarching takeaway message
 
