@@ -16,16 +16,16 @@
 <a name="project-description"></a>
 
 ## Project Description
-For this project, we put ourselves on the shoes of a wealthy expanding hotel chain CEOs who need data support to decide the location of a new hotel to be built in Europe. Sleepy Hotel Group owns medium-sized (25-99 rooms) hotels all over the world that offer accomodation in the low-mid price range.
-But we are also wearing the shoes of their data team so we went to the Eurostat Tourism Database and gathered the information we needed for our analysis and to create meaningful dashboards for decision making on the new hotel's location.
+For this project, we put ourselves on the shoes of a consulting data team who was hired by a wealthy expanding hotel chain. The CEOs need data support to decide the location of a new hotel to be built in Europe. Sleepy Hotel Group owns medium-sized (25-99 rooms) hotels all over the world that offer accomodation in the low-mid price range.
+To help them, we went to the Eurostat Tourism Database and gathered the information we needed for our analysis and to create meaningful dashboards for decision making on the new hotel's location.
 
 <a name="criteria-/-questions"></a>
 
 ## Criteria / Questions
 Criteria to choose the new hotel's location:
 - Ocupation rate;
-- Changes of accomodation prices;
-- Existing types of accomodation.
+- Spending on hotel accomodation;
+- Size of the existing hotels.
 
 <a name="dataset"></a>
 
@@ -41,7 +41,7 @@ All our dataset where gathered on Eurostat database for [Tourism](https://ec.eur
 ## Workflow
 Before starting to look for data, we put together a case scenario to narrow our data search.
 Dealing with the data was a very straightforward process: we found the data in Eurostat and explored the datasets to check if they suited our purposes.
-All our data cleaning and manipulation was done on pandas or excel. 
+All our data cleaning and manipulation was done either on pandas (most of it) or excel. 
 Before getting our hands on Tableau, we sketched some visualizations to be sure that we had all the data needed to create the dashboards.
 On our tableau workbook, we created our visualizations and built our dashboards and story.
 Finally, we drew some results and conclusions.
@@ -55,4 +55,4 @@ We used Trello to lay out a plan and keep track of all the actions we needed to 
 
 ## Links
 [Repository](https://github.com/laurawuerz/Project-Week-6-Tableau)  
-[Tableau](https://www.canva.com/design/DADlSes2lSw/EQwGN7iok2_0vJNTayvIQA/view?utm_content=DADlSes2lSw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Tableau](https://public.tableau.com/views/TableauProjectTourism/StorySleepy?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
