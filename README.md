@@ -18,7 +18,6 @@
 
 We are WeRobot and create a world where life is easier. The idea behind WeRobot is to enter a specific market to support the industries which are suffering from the demographic change of the aging workforce with our technical expertise in automatization and digitalization.
 
----
 
 ## Questions
 
